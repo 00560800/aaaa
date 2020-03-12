@@ -1,0 +1,12 @@
+.container .row td,
+.container .row tr{
+
+	 
+	background-color: #FFEAC1;
+	font-size:25px;
+}
+.container .row th{
+	white-space: nowrap;
+	background-color: #FAB16F ;
+	 
+}
